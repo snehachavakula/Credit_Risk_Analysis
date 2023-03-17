@@ -1,4 +1,4 @@
-# Credit Risk Analysis
+# Bank Loan EDA Case Study
 
 # Project Description
 
